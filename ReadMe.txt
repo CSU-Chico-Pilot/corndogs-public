@@ -1,22 +1,23 @@
-# GitHub Enterprise Test Repository - Chico State
+# GitHub Enterprise Test Repository – Chico State
 
-Welcome to the CSU Chico GitHub Enterprise implementation test environment. This repository serves as a demonstration of our advanced version control and collaboration infrastructure.
+Welcome to the CSU Chico GitHub Enterprise test environment—a proving ground for the version-control muscle we’re building across campus. This space demonstrates how we plan to run code with discipline, transparency, and just enough swagger to keep things interesting.
 
 ## Purpose
 
-This repository showcases our commitment to:
-- **Enterprise-Grade DevOps**: Implementing industry-standard development practices across the institution
-- **Secure Collaboration**: Enabling seamless teamwork with enterprise-level security controls
-- **Scalable Infrastructure**: Building a foundation that grows with our institution's technical needs
+This repository highlights our push toward:
+
+- **Enterprise-Grade DevOps** – Institution-wide adoption of modern development discipline  
+- **Secure Collaboration** – Teamwork fortified with serious security controls  
+- **Scalable Infrastructure** – A platform designed to grow, not groan, as demands increase  
 
 ## Key Features
 
-✓ Advanced branch protection policies
-✓ Automated CI/CD pipeline integration
-✓ Comprehensive audit logging and compliance tracking
-✓ Role-based access control (RBAC) implementation
-✓ Enterprise single sign-on (SSO) support
+- ✓ Advanced branch-protection rules  
+- ✓ Integrated CI/CD pipelines  
+- ✓ Full audit logging and compliance tracking  
+- ✓ Role-based access control (RBAC)  
+- ✓ Enterprise single sign-on (SSO)  
 
 ## Status
 
-This implementation demonstrates the technical excellence and forward-thinking approach to infrastructure that defines modern academic institutions. Built and maintained by the CSU Chico technology team. 
+This implementation reflects a modern, forward-leaning approach to academic infrastructure—engineered and maintained by the CSU Chico technology team, with an eye toward reliability, security, and scale.
