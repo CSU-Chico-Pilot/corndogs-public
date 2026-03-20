@@ -2,7 +2,7 @@
 
 Welcome to the galaxy of advanced coding capabilities! This document outlines the AI-related functions we've implemented together in this repository.
 
-## Overview
+## Overview 
 
 With great power comes great responsibility—and with great AI comes great code. Here's what we've accomplished:
 
